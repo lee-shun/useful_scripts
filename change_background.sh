@@ -19,6 +19,6 @@
 
 while true;
 do
-    feh --gb-fill --no-fehbg --randomize /home/ls/图片
-    sleep 15
+    feh --bg-fill --randomize /home/ls/图片
+    sleep 30
 done
